@@ -1135,7 +1135,7 @@ G0Z0.1
 berdasarkan keterangan dari hints, maka dapat dipahami maka kode tersebut adalah kode dari mesin CNC (Computer Numerical Control). Maka daripada itu untuk mengetahui maksud dari kode ini, dibutuhkan simulator CNC, dan dapatlah https://gcodetutor.com/cnc-program-simulator.html
 
 setelah kode tersebut dijalankan maka akan terdapat sebuah flag yang dihasilkan
-![flag](assets/image.jpg)
+![flag](assets/image.png)
 ## Flag
 ```sh
 picoCTF{num3r1cal_c0ntr0l_1395ffad}
